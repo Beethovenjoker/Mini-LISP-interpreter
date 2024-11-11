@@ -1,4 +1,4 @@
-## RISC-V Assembly and Instruction Pipeline
+## Mini-LISP-interpreter
 
 ```
                                        .  
